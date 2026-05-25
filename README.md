@@ -1,8 +1,9 @@
 # forkfork
 
 ```txt
-AWS     Nginx     Lua
-Postgres     Redis     AI
+aws     nginx     lua     linux
+postgres     redis     python     vim
+ai
 ```
 
 things I like.
