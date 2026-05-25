@@ -3,7 +3,7 @@
 ```txt
 aws     nginx     lua     linux
 postgres     redis     python     vim
-ai
+ai i think
 ```
 
 things I like.
