@@ -1,9 +1,8 @@
 # forkfork
 
 ```txt
-infra       AWS . Nginx
-logic       Lua . AI systems
-data        Postgres . Redis
+AWS     Nginx     Lua
+Postgres     Redis     AI
 ```
 
-building small, sharp systems around infrastructure, data, and automation.
+things I like.
